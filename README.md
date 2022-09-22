@@ -10,11 +10,11 @@ Players take turns playing the top card from their stacks. Whoever's card is a h
 
 If there is a tie, then it's War! Each player adds three cards of their stack face down. Each player reveals their fourth card. Whoever wins that reveal takes all of the cards! If there is another tie the process repeats until there is a winner.
 
-## Running the tests
+## Running the game
 
 To run the test simply load the file and run the code, everything should appear in your console. 
 
-### Sample Tests
+### Sample Game
 
 To start the console will log both decks. Then the console should show the cards played each round and who won the round. The first card logged is from deck1. If their is a war, the console will log all the cards in the war. Finally once their is a winner the console will log their deck and declare which deck was the winner.
 
